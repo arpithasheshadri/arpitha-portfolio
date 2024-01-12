@@ -11,43 +11,50 @@ export const projectsData = [
         id: 1,
         image: Work3,
         title: 'Voyage',
-        category: 'Web'
+        category: 'Web',
+        link: 'https://github.com/arpithasheshadri/Voyage'
     },
     {
         id: 2,
         image: Work1,
         title: 'FunDo',
-        category: 'Web'
+        category: 'Web',
+        link: 'https://github.com/arpithasheshadri/FunDoApp'
     },
     {
         id: 3,
         image: Work2,
         title: 'Book Store Management System',
-        category: 'Web'
+        category: 'Web',
+        link: 'https://github.com/arpithasheshadri/BookStore'
     },
     {
         id: 4,
         image: Work7,
         title: 'Intrusion Detection System For Wireless Network',
-        category: 'Data Science'
+        category: 'Data Science',
+        link: ''
     },
     {
         id: 5,
         image: Work4,
         title: 'End-to-End Encryption For Fitness Trackers',
-        category: 'Cybersecurity'
+        category: 'Cybersecurity',
+        link: 'http://paper.ijcsns.org/07_book/202206/20220610.pdf'
     },
     {
         id: 6,
         image: Work6,
         title: 'Templar Threat Intelligence Project',
-        category: 'Web'
+        category: 'Web',
+        link: 'https://github.com/bhatappu11/alienvault'
     },
     {
         id: 7,
         image: Work5,
         title: 'Charity Blockchain',
-        category: 'Web'
+        category: 'Web',
+        link: 'https://github.com/bhatappu11/webpage-for-charity-using-reactjs'
     }
 ]
 
