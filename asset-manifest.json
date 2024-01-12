@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arpitha-portfolio/static/css/main.7f35f471.css",
-    "main.js": "/arpitha-portfolio/static/js/main.b6679bf6.js",
+    "main.css": "/arpitha-portfolio/static/css/main.dbf587a8.css",
+    "main.js": "/arpitha-portfolio/static/js/main.05125326.js",
     "static/media/about.jpg": "/arpitha-portfolio/static/media/about.35d1b9375f0f98fbe49a.jpg",
     "static/media/IMG_2462.jpg": "/arpitha-portfolio/static/media/IMG_2462.5cca073effaed9668b71.jpg",
     "static/media/work7.png": "/arpitha-portfolio/static/media/work7.ddeb6bc862be6e3c5bc8.png",
@@ -13,11 +13,11 @@
     "static/media/work1.jpg": "/arpitha-portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work4.webp": "/arpitha-portfolio/static/media/work4.e42a511ae72365ab7467.webp",
     "index.html": "/arpitha-portfolio/index.html",
-    "main.7f35f471.css.map": "/arpitha-portfolio/static/css/main.7f35f471.css.map",
-    "main.b6679bf6.js.map": "/arpitha-portfolio/static/js/main.b6679bf6.js.map"
+    "main.dbf587a8.css.map": "/arpitha-portfolio/static/css/main.dbf587a8.css.map",
+    "main.05125326.js.map": "/arpitha-portfolio/static/js/main.05125326.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f35f471.css",
-    "static/js/main.b6679bf6.js"
+    "static/css/main.dbf587a8.css",
+    "static/js/main.05125326.js"
   ]
 }
