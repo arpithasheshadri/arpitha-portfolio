@@ -4,6 +4,7 @@ import Frontend from "./Frontend";
 import Backend from "./Backend";
 import DevOps from "./DevOps";
 
+
 const Skills = () => {
     return (
         <section className="skills section" id="skills">
