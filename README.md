@@ -1,5 +1,5 @@
 
-```markdown
+
 # Arpitha's Portfolio
 
 Welcome to the repository of my personal portfolio. This project showcases my skills, projects, and experiences in the field of software development.
@@ -37,5 +37,5 @@ Experienced and innovative full-stack developer adept in MERN stack and Spring F
 ## Contact
 
 Feel free to reach out to me at sheshadribhat.a@northeastern.edu
-```
+
 
