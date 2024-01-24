@@ -14,8 +14,7 @@ const About = () => {
             
             <div className="about__data">
                 
-                <p className="about__description">Experienced full-stack developer skilled in the MERN stack and Spring Framework, dedicated to crafting innovative and scalable solutions. I've led successful end-to-end development projects during my undergraduate studies.<br/> <br/>In my role at Perfios Software Solutions, I significantly improved system efficiency by 20%, focusing on digitizing and categorizing insurance claim data.<br/><br/> Proficient in JavaScript, ReactJS, NodeJS, Java, and Spring, I leverage cloud technologies like Docker, Kubernetes, AWS, and Git/GitHub for robust and scalable systems. Committed to industry best practices, including Test-Driven Development (TDD), I excel in dynamic, collaborative environments and contribute actively to open-source projects.
-                </p>
+                <p className="about__description">Experienced MERN stack and Spring Framework developer with a Master's in Information Systems. Led impactful projects at Perfios Software Solutions, enhancing system efficiency by 20%. Proficient in JavaScript, ReactJS, NodeJS, Java, and Spring. Expertise in cloud technologies, including Docker, Kubernetes, AWS, and Git/GitHub. Dedicated to industry best practices such as Test-Driven Development (TDD). Committed to crafting innovative, scalable solutions and actively contributing to open-source projects. Adept in dynamic, collaborative environments, I bring a strong foundation in full-stack development and a passion for creating robust applications.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg
