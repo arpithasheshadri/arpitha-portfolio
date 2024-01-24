@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arpitha-portfolio/static/css/main.1707dc7d.css",
-    "main.js": "/arpitha-portfolio/static/js/main.7faf4445.js",
+    "main.js": "/arpitha-portfolio/static/js/main.45bdca24.js",
     "static/media/about.jpg": "/arpitha-portfolio/static/media/about.35d1b9375f0f98fbe49a.jpg",
     "static/media/IMG_2462.jpg": "/arpitha-portfolio/static/media/IMG_2462.5cca073effaed9668b71.jpg",
     "static/media/work7.png": "/arpitha-portfolio/static/media/work7.ddeb6bc862be6e3c5bc8.png",
@@ -14,10 +14,10 @@
     "static/media/work4.webp": "/arpitha-portfolio/static/media/work4.e42a511ae72365ab7467.webp",
     "index.html": "/arpitha-portfolio/index.html",
     "main.1707dc7d.css.map": "/arpitha-portfolio/static/css/main.1707dc7d.css.map",
-    "main.7faf4445.js.map": "/arpitha-portfolio/static/js/main.7faf4445.js.map"
+    "main.45bdca24.js.map": "/arpitha-portfolio/static/js/main.45bdca24.js.map"
   },
   "entrypoints": [
     "static/css/main.1707dc7d.css",
-    "static/js/main.7faf4445.js"
+    "static/js/main.45bdca24.js"
   ]
 }
