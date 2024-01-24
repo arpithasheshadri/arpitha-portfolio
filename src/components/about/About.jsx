@@ -9,12 +9,12 @@ const About = () => {
        <section className="about section" id="about">
         <h2 className="section__title">About Me</h2>
         <span className="section__subtitle">My Introduction</span>
-
+        <Info />
         <div className="about__container container grid">
-            <img src={AboutImg} alt="" className="about__img" />
+            
             <div className="about__data">
-                <Info />
-                <p className="about__description">Experienced full-stack developer adept in MERN stack and Spring Framework, dedicated to crafting innovative and scalable solutions.
+                
+                <p className="about__description">Experienced full-stack developer skilled in the MERN stack and Spring Framework, dedicated to crafting innovative and scalable solutions. I've led successful end-to-end development projects during my undergraduate studies.<br/> <br/>In my role at Perfios Software Solutions, I significantly improved system efficiency by 20%, focusing on digitizing and categorizing insurance claim data.<br/><br/> Proficient in JavaScript, ReactJS, NodeJS, Java, and Spring, I leverage cloud technologies like Docker, Kubernetes, AWS, and Git/GitHub for robust and scalable systems. Committed to industry best practices, including Test-Driven Development (TDD), I excel in dynamic, collaborative environments and contribute actively to open-source projects.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
@@ -45,6 +45,7 @@ const About = () => {
               </svg>
                 </a>
             </div>
+            <img src={AboutImg} alt="" className="about__img" />
         </div>
        </section>
     )

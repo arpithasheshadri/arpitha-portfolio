@@ -24,14 +24,14 @@ const DevOps = () => {
                     </div>
                     </div>
 
-                    {/* <div className="skills__data">
+                    <div className="skills__data">
                     <i class='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">JavaScript</h3>
+                        <h3 className="skills__name">AWS</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
-                    </div> */}
+                    </div>
                 </div>
 
                 <div className="skills__group">
