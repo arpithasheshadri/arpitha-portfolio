@@ -30,6 +30,7 @@ const Footer = () => {
                     </a>
                 </div> */}
                 <span className="footer__copy">&#169; Arpitha Portfolio. All rights reserved</span>
+                <span className="footer__copy">Created using React by Arpitha</span>
             </div>
         </footer>
     )
