@@ -19,6 +19,9 @@ Experienced and innovative full-stack developer adept in MERN stack and Spring F
 - MongoDB, MySQL, PostgreSQL
 - Docker, Kubernetes
 - Git/GitHub
+- Terraform
+- AWS
+- Google cloud platform
 
 ## Education
 
