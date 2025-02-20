@@ -72,7 +72,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)}className="uil uil-times services__modal-close"></i>
                             <h3 className="services__modal-title">Back-end Development</h3>
-                            <p className="services__modal-description">Service with more than 2 years of experience. Providing quality work to clients and companies</p>
+                            <p className="services__modal-description">Service with more than 2.5 years of experience. Providing quality work to clients and companies</p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
@@ -81,27 +81,32 @@ const Services = () => {
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I create and maintain APIs for seamless communication between the frontend and backend.</p>
+                                    <p className="services__modal-info">Design and implement RESTful APIs and microservices to ensure smooth communication between frontend and backend.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I design and manage databases to ensure efficient data storage and retrieval.</p>
+                                    <p className="services__modal-info">Manage and optimize databases (SQL & NoSQL) for efficient data storage, retrieval, and performance.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I utilize frameworks like Express (Node.js), or Spring Boot (Java) for efficient backend development.</p>
+                                    <p className="services__modal-info">Utilize frameworks like Spring Boot (Java), Flask (Python), and Express (Node.js) to build robust backend systems.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I implement secure user authentication and authorization systems.</p>
+                                    <p className="services__modal-info">Implement secure user authentication and authorization systems.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I optimize backend systems for scalability and performance.</p>
+                                    <p className="services__modal-info">Optimize backend infrastructure for scalability, fault tolerance, and high availability.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">Integrate real-time event-driven architectures using Kafka and WebSockets for responsive applications.</p>
                                 </li>
                             </ul>
                         </div>
@@ -123,27 +128,37 @@ const Services = () => {
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I establish and maintain CI/CD pipelines for automated testing, integration, and deployment of applications.</p>
+                                    <p className="services__modal-info">Designed and implemented CI/CD pipelines for automated testing, integration, and deployment, ensuring rapid and reliable releases.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I implement containerization using tools like Docker, ensuring consistency across different environments.</p>
+                                    <p className="services__modal-info">Containerized applications using Docker, enabling consistency and portability across different environments.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I orchestrate containerized applications using Kubernetes for scalability and efficient resource utilization.</p>
+                                    <p className="services__modal-info">Orchestrated containerized workloads with Kubernetes, optimizing scalability and resource utilization.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I coordinate and manage software releases, ensuring a smooth and controlled deployment process.</p>
+                                    <p className="services__modal-info">Managed infrastructure as code (IaC) using Terraform, ensuring reproducibility and version control.</p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I use version control systems to manage infrastructure code and collaborate with team members effectively.</p>
+                                    <p className="services__modal-info">Coordinated and automated software releases, minimizing downtime and deployment risks.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">Leveraged Git and version control systems for efficient collaboration and infrastructure management.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">Integrated monitoring and logging tools like Prometheus and Grafana for system observability and performance tracking.</p>
                                 </li>
                             </ul>
                         </div>
